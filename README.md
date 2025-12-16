@@ -12,7 +12,7 @@
   
 📫 How to reach me  
 - Email: rogithgoud@gmail.com  
-- LinkedIn: linkedin.com/in/rogith-goud-4910322b0 
+- LinkedIn: https://linkedin.com/in/rogith-goud-4910322b0 
 - GitHub: https://github.com/Rogithgoud  
 
 😄 Pronouns: **He / Him**  
